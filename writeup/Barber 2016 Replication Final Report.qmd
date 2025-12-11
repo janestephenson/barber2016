@@ -1,0 +1,352 @@
+---
+title: "Replication of _Thinking about a limited future enhances the positivity of younger and older adults’ recall: Support for socioemotional selectivity theory_ by Barber, Opitz, Martins, Sakaki & Mather (2016, Memory & Cognition)"
+author: "Jane Stephenson (janestep@stanford.edu)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+format:
+  html:
+    toc: true
+    toc_depth: 3
+
+bibliography: [references/packages.bib, references/Barber2016 Replication.bib]
+biblio-style: apalike
+nocite: '@*'
+---
+
+## Introduction
+
+I attempted to replicate Experiment 2 in the article, "Thinking about a limited future enhances the positivity of younger and older adults’ recall: Support for socioemotional selectivity theory” (Barber et al., 2016). Socioemotional selectivity theory posits that when future time horizons are constrained, individuals experience a shift in priorities, preferring meaningful experiences over exploratory ones (Carstensen, 1993). One effect attributed to this shift in preferences is that older adults, who have a more constrained time horizon on their remaining time to live compared to younger adults, is a "positivity effect" of attention to and recollection of emotional stimuli whereby older adults recall more positive stimuli compared to younger adults (Charles et al., 2003). In the original study, the authors found that the positivity effect can be observed in people of all ages when they are primed to imagine a more limited future time perspective compared to imagining an expansive future time horizon as well as a control condition. I would consider a successful replication one that also finds a positivity effect in the limited future time perspective.
+
+The original paper can be found [here](https://github.com/janestephenson/barber2016/blob/1b4370a9fff45d1a6edca601cbf3a85d2419f70b/original_paper/barber2016.pdf).
+
+## Methods
+
+Data, stimuli, and code can be found in [this](https://github.com/janestephenson/barber2016) repository.
+A pre-registration of analyses can be found [here](https://doi.org/10.17605/OSF.IO/7DWZV).
+
+### Power Analysis
+
+The effect size for the ANOVA in the original paper that found a significant difference in the positivity of recall for three groups had a partial eta-squared of 0.06.
+This translates to an effect size "f" of 0.25.
+To detect the same effect size, I would need...
+
+-   For 95% power: 246 participants
+-   For 90% power: 204 participants
+-   For 80% power: 156 participants
+
+In a follow up t-test, the authors also found that the recall of participants in the limited time horizon condition was significantly more positive than that of participants in the control condition with an effect size of d = .60.
+
+-   For 95% power: 122 participants (61 people in each group)
+-   For 90% power: 98 participants (49 people per group)
+-   For 80% power: 72 participants (36 people in each group)
+
+### Planned Sample
+
+Based on the power analyses above, I planned to collect a sample size of 156, with 52 people in each condition.
+This would give me 80% power to detect effects of the size reported in the original paper.
+
+### Procedure
+
+The procedure for this project followed that of the original paper as closely as possible.
+The original procedures are reported below:
+
+"As a baseline measure of mood, participants first completed the Positive and Negative Affective Scale (PANAS; Watson, Clark, & Tellegen, 1988). This 20-item questionnaire lists 10 positive and 10 negative emotional adjectives and participants rate the extent to which they are currently feeling each adjective.
+
+Participants were then randomly assigned to either the limited time horizon, expansive time horizon, or control condition.
+These conditions differed only in the writing activity that was next completed...
+
+Immediately after the writing activity, participants in all three conditions indicated their mood using a sliding scale.
+Responses could range from 0 (very negative mood) to 100 (very positive mood).
+
+Participants next completed an emotional picture memory task.
+The picture stimuli used in this task were seven positively-valenced and seven negatively-valenced pictures drawn from the IAPS (Lang et al., 1999).
+They were all low in arousal, and arousal level did not differ between the positive and negative pictures...
+During the incidental encoding task pictures were shown in a single random order.
+The picture slideshow progressed automatically, and participants could not go back and review pictures after they had disappeared.
+Each picture was shown with either a red or yellow border, and participants were asked to indicate the border’s color.
+Since this was an online study, this ensured that participants attended to all of the pictures during the encoding period.
+Each picture was shown for five seconds...
+Across participants each picture appeared equally often with a red border as it did with a yellow border.
+To buffer against primacy and recency effects, we also included four non-critical neutral pictures, two of which appeared at the beginning of the slideshow and two at the end.
+Immediately after viewing the pictures, participants completed a surprise, self-paced, free recall test.
+Here, they typed short descriptions of as many of the pictures as they could recall.
+
+Finally, at the end of the study participants provided demographics information and also indicated whether they had encountered any technical problems or had seen the emotional picture stimuli in a previous experiment."
+
+Piloting of this procedure indicated that the survey takes approximately 12 minutes to complete.
+
+The survey can be found [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_cuUfDiENKffPE5U).
+
+### Analysis
+
+Prior to analysis, I independently coded the presence of the 14 critical and 4 non-critical pictures in participants' reports.
+I planned to exclude participants who reported having seen the IAPS emotional picture stimuli in previous studies as well as any participants who reported computer errors.
+To prepare the data, I created positive and negative affect scores by summing scores from the positive and negative emotion reports on the PANAS.
+I created a recall positivity score, which was the number of critical images recalled that were positive minus the number that were negative divided by the total number of critical images recalled.
+
+**Key Analyses:** To determine whether the positivity of recall differs between the three conditions, I conducted a single-factor between-groups ANOVA on the relative positivity of participants’ recall.
+I then planned to conduct follow-up independent t-tests to compare recall positivity between conditions.
+
+The second aim of the study was to test the role of mood in modulating results.
+First, I planned to confirm that mood should not differ across participants before the time horizon manipulation by performing ANOVAs on the positive and negative PANAS scores.
+Then I planned to test whether mood after the manipulation differed using an ANOVA in reports of mood between the three groups and planned to test the association between post-manipulation mood and positivity of recall with a correlation test.
+
+Finally, I planned to test whether mood mediates the association between time horizon condition and positivity of recall.
+To do this, I planned to run separate regression analyses of time horizon condition (entered as 0 for either the expansive time horizon or control condition and as 1 for the limited time horizon condition) predicting recall positivity with and without mood and run a Sobel test to see whether the association is significantly strengthened after accounting for mood.
+
+### Differences from Original Study
+
+This replication differs in sample and setting such that data are collected on Prolific rather than MTurk and are collected 7-8 years after the original data were collected.
+Additionally, because I was not able to receive the exact materials used for the original survey, the instructions given to participants and structure of the survey may have varied slightly.
+However, because the stimuli were the same, I anticipated that these differences should not have a substantive effect on the outcome.
+
+#### Actual Sample
+
+I recruited 150 participants for this study.
+No participants reported technical issues.
+One participant reported that they had seen the stimuli in a previous study and were excluded.
+As such, my final sample included 149 participants (85 women).
+Participants' ages ranged from 21-76 with an average of 46 (*SD* = 14).
+Participants ranged in educational background with 17% reporting a high school diploma, 18% some college, 13% associates, 33% bachelor's degree, and 19% graduate or professional.
+
+#### Differences from pre-data collection methods plan
+
+None.
+
+## Results
+
+```{r include=F, message=FALSE, warning=FALSE}
+### Data Preparation
+
+#### Load Relevant Libraries and Functions
+library(effectsize)
+library(qualtRics)
+library(readxl)
+library(bda)
+library(knitr)
+library(tidyverse)
+
+# include references for used packages
+write_bib(.packages(), "references/packages.bib") 
+
+theme_set(theme_bw()) # set theme for plotting
+
+full_data_raw = read_survey("C:/Users/JaneS/OneDrive - Stanford/Classes/Psych 251/barber2016/data/full_data_raw.csv") # raw data
+
+full_data_edited = read.csv("C:/Users/JaneS/OneDrive - Stanford/Classes/Psych 251/barber2016/data/full_data_edited2.csv") # data with ratings by coders
+
+#### Data exclusion / filtering
+full_data_raw = full_data_raw %>% 
+  filter(!is.na(PROLIFIC_PID)) # only Prolific participants (no testing data)
+
+full_data_edited = full_data_edited %>% slice(-1) # first column repeats row names so remove it
+
+#### Prepare data for analysis - create columns etc.
+full_data = full_data_edited %>% 
+  left_join(full_data_raw, join_by(PROLIFIC_PID, condition)) %>% 
+  mutate(PANAS_pos_sum = rowSums(pick(contains("PANAS_pos"))),
+         PANAS_neg_sum = rowSums(pick(contains("PANAS_neg"))),
+         across(ends_with("_pos"), as.numeric),
+         across(ends_with("_neg"), as.numeric),
+         across(ends_with("_neut"), as.numeric),
+         pos_images_sum = rowSums(pick(ends_with("_pos")), na.rm = T),
+         neg_images_sum = rowSums(pick(ends_with("_neg")), na.rm = T),
+         neut_images_sum = rowSums(pick(ends_with("_neut")), na.rm = T), 
+         total_images_sum = rowSums(pick(pos_images_sum, neg_images_sum, neut_images_sum), na.rm = T),
+         critical_images = total_images_sum - neut_images_sum,
+         recall_positivity = case_when(total_images_sum == 0 ~ 0,
+                                       critical_images == 0 ~ 0,
+                                       .default = (pos_images_sum - neg_images_sum)/critical_images),
+         condition_bin = if_else(condition == "limited", 1, 0, missing = NA),
+         condition = factor(condition, 
+                            levels = c("expansive", "control", "limited"))
+  ) %>% 
+  select(PROLIFIC_PID, PANAS_pos_sum, PANAS_neg_sum, condition, condition_bin, mood = mood_1, total_images_sum, critical_images, recall_positivity, Age, Gender, Education, Q0_CONSENT, previous_exposure)
+
+full_data_raw %>% count(Q0_CONSENT)
+full_data_raw %>% count(previous_exposure)
+
+full_data = full_data %>% 
+  filter(Q0_CONSENT == 1) %>% # only analyze participants who consented
+  filter(previous_exposure == 0) # only analyze participants who hadn't seen the images in prior study
+```
+
+##### Confirmatory analysis
+
+```{r descriptives, include=F, message=FALSE, warning=FALSE}
+full_data %>% 
+  count(condition)
+
+full_data %>% 
+  summarise(mean = mean(recall_positivity, na.rm = T), 
+            sd = sd(recall_positivity, na.rm = T), 
+            min = min(recall_positivity, na.rm = T), 
+            max = max(recall_positivity, na.rm = T),
+            missing = sum(is.na(recall_positivity)))
+
+full_data %>% 
+  count(Gender)
+
+full_data %>% 
+  summarise(mean = mean(Age, na.rm = T), 
+            sd = sd(Age, na.rm = T), 
+            min = min(Age, na.rm = T), 
+            max = max(Age, na.rm = T),
+            missing = sum(is.na(Age)))
+
+full_data %>% 
+  count(Education) %>% 
+  mutate(prop = n/sum(n), 
+         percent = round(prop*100, 2)) %>% 
+  dplyr::select(!prop)
+
+full_data %>% 
+  summarise(mean = mean(critical_images, na.rm = T), 
+            sd = sd(critical_images, na.rm = T), 
+            min = min(critical_images, na.rm = T), 
+            max = max(critical_images, na.rm = T),
+            missing = sum(is.na(critical_images)))
+```
+
+```{r include=F, message=FALSE, warning=FALSE}
+# ANOVA for difference in recall positivity between 3 groups
+aov_recall_positivity = full_data %>% 
+  aov(recall_positivity ~ condition, 
+      data = .) 
+
+summary(aov_recall_positivity)
+
+eta_squared(aov_recall_positivity) # effect size
+
+# Multiple Comparisons
+TukeyHSD(aov_recall_positivity)
+```
+
+Results of a single-factor between-groups ANOVA indicated that, unlike the original experiment, the positivity of recall did not differ between the expansive future, limited future, and control conditions, *F*(2, 146) = 0.95, *MSE* = 0.24, *p* = .39, eta-squared = 0.01.
+Because the ANOVA indicated that there were no significant differences between the groups, my plan to examine t-tests between the conditions was no longer appropriate.
+
+```{r include=F, message=FALSE, warning=FALSE}
+# ANOVA for difference in positive and negative affect between three group
+
+## Positive
+aov_PANAS_pos = full_data %>% aov(PANAS_pos_sum ~ condition, data = .) 
+
+summary(aov_PANAS_pos)
+
+eta_squared(aov_PANAS_pos) # effect size
+
+## Negative
+aov_PANAS_neg = full_data %>% aov(PANAS_neg_sum ~ condition, data = .) 
+
+summary(aov_PANAS_neg)
+
+eta_squared(aov_PANAS_pos)# effect size
+
+# ANOVA for difference in mood between three groups
+aov_mood = full_data %>% aov(mood ~ condition, data = .) 
+
+summary(aov_mood)
+
+# Mood and Recall
+
+cor.test(full_data$mood, full_data$recall_positivity)
+
+full_data %>% 
+  filter(condition == "limited") %>% 
+  cor.test(~ recall_positivity + critical_images, data = .)
+
+full_data %>% 
+  filter(condition == "expansive") %>% 
+  cor.test(~ recall_positivity + critical_images, data = .)
+
+full_data %>% 
+  filter(condition == "control") %>% 
+  cor.test(~ recall_positivity + critical_images, data = .)
+
+# Mediation
+mediation.test(full_data$mood, full_data$condition_bin, full_data$recall_positivity)
+```
+
+As in the original study, positive and negative affect before the time horizon manipulation did not differ between conditions, *F*(2, 146) = 0.93, *MSE* = 82.26, *p* = .40, eta-squared = 0.01 for positive affect and *F*(2, 146) = 0.49, *MSE* = 43.06, *p* = .62, eta-square = 0.01 for negative affect.
+However, unlike the original study, post-manipulation mood did not significantly differ between the three conditions in my study, *F*(2, 146) = 0.18, *MSE* = 619.0, *p* = .84, eta-squared = 0.01.
+There was also no significant correlation between mood and recall positivity across groups (*r* = 0.08, *p* = .35), which contrasts the findings of the original experiment.
+
+Because there were no significant associations between condition and recall positivity, nor between condition and post-induction mood, there were no grounds to perform a mediation analysis.
+
+::: {layout="[[1.1,1]]"}
+```{r echo=FALSE}
+full_data %>% 
+  mutate(condition = factor(condition, 
+                            levels = c("expansive", "control", "limited"))) %>% 
+  ggplot(aes(x = condition, 
+             y = recall_positivity)) + 
+  stat_summary(fun = "mean", 
+               geom = "bar",
+               fill = "white", 
+               color = "black") +
+  stat_summary(fun.data = "mean_se", 
+               geom = "errorbar", 
+               width = 0.05) +
+  coord_cartesian(ylim = c(-0.1, 0.35)) +
+  labs(title = "Positivity of Recall by Condition",
+       y = "Positivity of Recall", 
+       x = " ",
+       caption = "My Replication") +
+  scale_x_discrete(labels = c("Expansive Future", "Control", "Limited Future")) +
+  geom_hline(yintercept = 0, color = "black", linetype = "solid") +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.caption = element_text(hjust = 0, size = 16),
+    panel.grid.major = element_blank(), # Remove major grid lines
+    panel.grid.minor = element_blank()  # Remove minor grid lines
+  )
+```
+
+![Original Figure](barber2016_original_figure.jpg)
+:::
+
+### Exploratory analyses
+
+```{r include=F, message=FALSE, warning=FALSE}
+full_data %>% aov(Age ~ condition, data = .) %>% summary()
+
+cor.test(full_data$Age, full_data$PANAS_pos_sum)
+
+cor.test(full_data$Age, full_data$PANAS_neg_sum)
+
+cor.test(full_data$Age, full_data$mood)
+
+full_data %>% lm(mood ~ Age + PANAS_pos_sum + PANAS_neg_sum, data = .) %>% summary()
+
+cor.test(full_data$Age, full_data$critical_images)
+
+cor.test(full_data$Age, full_data$recall_positivity)
+
+full_data %>% lm(recall_positivity ~ Age + condition, data = .) %>% summary()
+```
+
+Because the average age in my sample was about 15 years older than the average age in the original sample, and chronological age has been shown to be related to emotional experience and recall positivity, I explored how age was associated with the variables of interest in this experiment.
+
+Participant age did not vary between conditions, *F*(2, 146) = 0.30, *MSE* = 184.27, *p* = .74.
+
+In line with predictions based on SST and other research on age differences in emotional experience, age was associated with less negative affect (*r* = -.24, *p* = .003) and a more positive mood post manipulation even controlling for pre-manipulation affect (*b* = 0.29, *SE* = 0.09, *p* = .002).
+Older age was associated with remembering more critical images in total (*r* = 0.25, *p* = .002), but was not associated with recall positivity, even controlling for condition (*b* = -0.004, *SE* = 0.003, *p* = .19).
+
+## Discussion
+
+### Summary of Replication Attempt
+
+Given that I did not find any significant difference in the positivity of recall between participants in the control, limited, and expansive time horizon conditions, I would consider this a failed replication attempt.
+
+### Commentary
+
+As I was not able to get the exact survey materials used in the original experiment and had to write the survey instructions and program the Qualtrics survey based on the information in the manuscript, my replication attempt may have failed because my instructions differed in some way from the original.
+I also think it might be possible that participants were distracted by how old the stimuli were.
+More than one participants commented on how old the pictures looked and this may have distracted participants from processing the emotional valence of the images.
+Though the original experiment took place around eight years ago, this time difference may have played a part participants' processing of the stimuli.
+
+Because condition had neither an effect on positivity of recall, nor post manipulation mood, it may be the case that the time horizon manipulation was not strong enough.
+Though the manipulation was worded exactly the same as the original study, today's Prolific participants may not be putting as much effort into writing tasks such as the one used as a manipulation in this study as online survey participants were in the past.
+
+In exploratory analyses, I examined the role of age in affect, mood, and image recollection, but found nothing that could account for why I failed to replicate they key findings of the original experiment.
+
+# References
