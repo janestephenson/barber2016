@@ -1,0 +1,812 @@
+recall_images_list,PROLIFIC_PID,condition,2490_neg,2250_pos,9001_neg,7090_neut,7130_neut,7150_neut,7233_neut,1463_pos,5660_pos,7350_pos,1275_neg,9830_neg,2650_pos,2260_pos,2540_pos,1112_neg,2590_neg,9415_neg,total_images_manual_count
+recall_images_list,PROLIFIC_PID,condition,Older man in kitchen,Older man and woman couple,Cemetery,Book,Truck,Umbrella,Plate,Kittens,Mountain,Pizza,Bugs,Cigarettes,Toddler with ice cream,Baby in leaves,Baby and mom,Legs and snake,Two women in kitchen,Infirmed people,Total
+"Pizza
+Mom with baby
+Kittens
+Cigarettes
+Bugs
+Old man in kitchen
+Truck
+Older man and woman couple
+Book",66465d688e90512d006edc84,control,1,1,,1,1,,,1,,1,1,1,,,1,,,,9
+"Book
+Umbrella
+Old man in kitchen
+Mom with baby
+Old woman sitting at table holding coffee cup (I THINK there was another woman with her, but not sure)
+Bugs
+Infirmed people
+Toddler with ice cream
+Legs and snake",5e6bdd2a3ea572199bb7f6b6,expansive,1,,,1,,1,,,,,1,,1,,1,1,1,1,10
+"Mountain
+book
+kittens
+old man in kitchen
+cigarettes
+Mom with baby
+Baby in leaves
+plate
+pizza
+two women in kitchen",60fd588771ae861f9244f93d,limited,1,,,1,,,1,1,1,1,,1,,1,1,,1,,
+"Mom with baby
+plate
+two women in kitchen
+cigarettes
+old man in kitchen
+",66817654ce8b233327b047ab,control,1,,,,,,1,,,,,1,,,1,,1,,5
+"Kittens
+truck
+mother and daughter
+old man in kitchen
+Older man and woman couple
+infirmed people",691dd7e2bb36cc07679cd499,limited,1,1,,,1,,,1,,,,,,,1,,,1,6
+"plate
+older man and woman couple
+old man in a kitchen
+kittens
+infirmed people
+a book
+a mountain
+a baby
+cigarette butts
+bugs
+",672adb2909ca72744f212a7d,limited,1,1,,1,,,1,1,1,,1,1,,1,,,,1,10
+"An older couple with their faces close to each other
+A mountain
+Two roaches
+An old man in a kitchen with a pot of food
+A child and his mother
+A young boy's face
+A woman and another older woman in a kitchen
+A book
+A blue umbrella",5e29cc3230cf9d03580c34bf,control,1,1,,1,,1,,,1,,1,,1,,1,,1,,9
+"Pizza
+Goose Plate 
+A man holding a pan of food 
+A little boy
+A mother and child 
+An older couple
+A commercial truck 
+A lady in a chair with a snake in the grass",65c7e4fc097bd8b7a1d1db45,limited,1,1,,,1,,1,,,1,,,1,,1,1,,,8
+"a book , woman holding a baby, older woman drinking tea, an older man",6719cbec85ea58d827948618,expansive,1,,,1,,,,,,,,,,,1,,1,,
+"Umbrella
+Child
+Man
+Truck",62a6c39ce82d993784c0b352,control,1,,,,1,1,,,,,,,1,,,,,,
+"Men walking home from war with injuries
+Man in the kitchen holding a pot in front of a small fridge
+5 kittens
+blue book
+a small child with blue eyes
+a below the knee picture with a woman wearing white tennis shoes
+an elderly couple with their forheads touching each other
+an elderly woman with probably her son holding her hand back from probably a hot cup
+",66fa0c80835daf2b640a6711,limited,1,1,,1,,,,1,,,,,,1,,1,1,1,
+"a truck
+beetles
+old man
+lady on bench",5d6349209b22da000117b1bd,control,1,,,,1,,,,,,1,,,,,1,,,
+"baby and parent
+an old man holding something",667c6dc242e317dfe6794059,limited,1,,,,,,,,,,,,,,1,,,,
+"old couple
+old man with pot of stuff next to fridge
+mother with child close up
+two roaches",6636db94fa3ed150c2d78447,expansive,1,1,,,,,,,,,1,,,,1,,,,
+"I was not attempting ot memorize the pictures at all...
+umbrella
+pizza
+cigarettes
+cemetery
+baby
+elderly man with fridge
+two bugs
+mountain
+men on crutches and in wheelchairs
+woman with child
+ice cream cone
+",6508adaced024f8da237ff03,control,1,,1,,,1,,,1,1,1,1,1,1,1,,,1,
+"Image of a man standing next to an open refrigerator and holding a pan.
+A smiling cat.
+A mountain
+A younger woman preventing an older woman from grabbing a drink.",55ecd6ff748092000daa9f5f,control,1,,,,,,,1,1,,,,,,,,1,,
+"an older couple looking into each other's eyes
+a snake at the feet of a woman
+men missing limbs
+an old man in a kitchen
+a mother holding a young child
+an umbrella on the floor
+a book
+a child with 2 scoops of ice cream
+old people sitting at a kitchen table
+",66647dac6b4645950f758d55,control,1,1,,1,,1,,,,,,,1,,1,1,1,1,
+"Book
+Cigarette butts
+Woman and baby
+Baby
+Older man
+Older woman and woman
+Roaches
+
+",60a2a8570a0f9cc00d6b9d1a,expansive,1,,,1,,,,,,,1,1,,1,1,,1,,
+"older couple
+man with soup
+baby
+roaches
+truck
+war torn people
+woman outside in fall
+people in a kitchen
+kittens
+",64836981f87b85ab4b89dcf1,control,1,1,,,1,,,1,,,1,,,1,,,1,1,
+"old man with a cookie pot, cockroaches, young girl, ",5f6b8930b9d9530b1b065360,expansive,1,,,,,,,,,,1,,,1,,,,,
+"A bible on the floor, on a rug; 
+A woman with a young child; 
+A cemetery; Five kittens; 
+An old man in a meager kitchen; 
+Legs on a chair with a snake in the grass",61074792728f0f9e791ad083,limited,1,,1,1,,,,1,,,,,,,1,1,,,
+"An umbrella
+Cigarette butts in the sand
+Kittens in a row
+An elderly couple face to face looking at the camera and smiling
+An elderly gentleman with a pot of something in front an open refrigerator
+A line of injured people in a foreign country 
+A delivery truck
+A snowy mountain 
+",677af995d5aabfb59f938acf,control,1,1,,,1,1,,1,1,,,1,,,,,,1,
+"I saw a plate with a goose on it, 
+a man with a pot of food,
+ cockroaches, 
+a lady sitting on a bench with a snake by her feet,
+ a Ford truck, 
+a mother and her baby, 
+a senior couple",66e7549ffa6e7b90fd01ce13,expansive,1,1,,,1,,1,,,,1,,,,1,1,,,
+"delivery car
+mother and baby
+old man with a bowl
+happy old couple",659590edd421a4085d51e2b9,expansive,1,1,,,,,,,,,,,,,1,,,,
+"Old man opening a fridge
+cemetary
+cats
+2 women at a dinner table
+",65625f5519bb4cecffc7ebdc,expansive,1,,1,,,,,1,,,,,,,,,1,,
+"an older couple
+a baby
+a woman with a baby
+cemetery
+injured men standing in line 
+elderly man holding a pot of soup
+2 cockroaches
+Large food truck
+cigarettes
+a book",65612a45629022b7c905ef6c,expansive,1,1,1,1,1,,,,,,1,1,,1,1,,,1,
+"dark book on carpeted floor
+older man at open refrigerator
+Giant delivery truck
+Baby on leaves on the ground
+cigarette butts
+two black beetles
+mountains
+open dark blue umbrella on floor with light wall in background
+row of 5 kittens mostly in shades of orange and white
+a older man and older woman (heads) smiling
+",63852fbf95d78ba25b99005e,control,1,1,,1,1,1,,1,1,,1,1,,1,,,,,
+"cigerettes, 
+graves, 
+five kittens, truck, 
+old man, 
+plate, 
+",681b50bd07413b3d651935b6,control,1,,1,,1,,1,1,,,,1,,,,,,,
+"blue umbrella
+mother and child
+man in front of fridge
+",675456bb3fe2ff679d892406,control,1,,,,,1,,,,,,,,,1,,,,
+"Truck
+Old man
+plate
+kid
+mountain",652d8a4cd08c6435db58fd9b,expansive,1,,,,1,,1,,1,,,,1,,,,,,
+"Book 
+Couple smiling at each other 
+Baby crawling on grass 
+Woman sitting on bench with a snake at her feet 
+Plate 
+Old man cooking 
+Mom holding a baby ",65c6bf285ed5b6fb01d96371,expansive,1,1,,1,,,1,,,,,,,1,1,1,,,
+"Two Persons eating
+Child
+Child with mother
+Umbrella
+Old man
+Truck",64136140e1cce438bf993257,expansive,1,,,,1,1,,,,,,,,1,1,,1,,
+"'- baby and mother 
+- mountain
+- sad army men with Injuries
+- old man by fridge 
+-grandmother and daughter
+-snake ",66d37eb06bdceba4904b950f,control,1,,,,,,,,1,,,,,,1,1,1,1,
+"an umbrella
+a photo of a woman holding her child close to her face
+a pair of roaches
+a woman sitting on a bench with a snake at her feet
+a moving truck
+an old man standing in front of a fridge with a pan
+an older couple smiling as they looked in each other's eyes
+a swingset
+",5e7a2ccd69a7770604dfb352,control,1,1,,,1,1,,,,,1,,,,1,1,,,
+"happy elderly couple
+graveyard
+truck
+people in breadline in warzone
+cockroaches
+baby in grass
+child eating ice cream
+woman stepping near snake
+bible
+plate on table
+hungry elderly man
+sad elderly woman
+kittens
+pizza",559c3e07fdf99b32b55f2d8d,expansive,1,1,1,1,1,,1,1,,1,1,,1,1,,1,1,1,
+"Cigarettes
+Cockroaches
+A line of disabled men
+A man holding a pot of soup
+Pizza
+Kittens
+A plate with ducks on it",6111739b4db1a934aa0b1a6a,limited,1,,,,,,1,1,,1,1,1,,,,,,1,
+"truck
+child holding an ice cream come
+woman sitting on a white chair, a snake at her feet
+an old man
+roaches
+",5b79dfb9db11320001c3d3f4,control,1,,,,1,,,,,,1,,1,,,1,,,
+"woman/shoes/snake 
+man/pot ",5ca60cd95a6f9a0015b2d034,control,1,,,,,,,,,,,,,,,1,,,
+"Black book
+Plate with geese
+Senior couple 
+Mother and child
+Child with ice cream cone
+Old man with pot in kitchen
+Old and young women drinking coffee in kitchen
+Box truck
+Woman with white shoes in grass with snake
+Baby in grass
+Crippled men walking
+Cockroaches 
+",60fe076cdaf85311b32cb6a0,expansive,1,1,,1,1,,1,,,,1,,1,1,1,1,1,1,
+"A book thats just black.
+An old photo of a couple
+Picture of kittens
+Old photo of an old guy",670ff2e18c2f93beac6a6a72,limited,1,1,,1,,,,1,,,,,,,,,,,
+"umbrella
+man with a pot
+a small child
+an infant
+",673006fde0527a61075e0d2c,limited,1,,,,,1,,,,,,,1,1,,,,,
+"Bible with black cover
+Cat and kittens
+A baby boy
+several used Cigarette
+Old Man standing in his roon
+A man sitting on bench
+",67d952104d8da4447ab6be2c,limited,1,,,1,,,,1,,,,1,,1,,1,,,
+"Black book,
+Blue umbrella with stars
+old man near a refrigerator
+multiple cats
+baby",64d5067b6cbee9de481d773b,expansive,1,,,1,,1,,1,,,,,,1,,,,,
+"Old man with coffee mug 
+Semi truck with writing on side
+Two people in photo look like selfie
+A plate retro looking 
+A bunch of kittens 
+People sitting at a table drinking coffee 
+",6509bd2dd6e135ced062c241,control,1,1,,,1,,1,1,,,,,,,,,1,,
+"Truck making delivery
+Disabled people waiting in line
+Old couple looking at each other
+Old man standing in kitchen 
+",67eb2f7bde953c130a671bd0,expansive,1,1,,,1,,,,,,,,,,,,,1,
+"A man  holding a pot 
+A ladies legs with a snake by them
+A child in a white jacket 
+A large truck is making deliveries
+A plate with white ducks
+a boy dressed like a cowboy
+
+
+",5bbf523d83f9790001ce549a,control,1,,,,1,,1,,,,,,1,1,,1,,,
+"an old man with a pot
+graveyard with crosses
+handicap men in a line
+truck
+pizza
+kittens",5f5452df72345118f58d187b,control,1,,1,,1,,,1,,1,,,,,,,,1,
+"A black bibble
+Five kittens
+An ol man holding a bowl in the kitchen
+A young man and an old man sitted on a dining table
+A food truck
+",67f2e663124c56672ad024e7,limited,1,,,1,1,,,1,,,,,,,,,1,,
+"A tractor trailer turning. 
+An old woman being helped by a younger woman. 
+Cockroaches.
+An elderly man preparing a stew.
+A young mother holding her toddler son.
+",63fba9e68d9ff349947fece5,control,1,,,,1,,,,,,1,,,,1,,1,,
+"kittens
+cigarettes
+old man at refrigerator
+feet in grass with snake",67857b540449990fd75059db,limited,1,,,,,,,1,,,,1,,,,1,,,
+"A mother hugging her child, 
+a bible on a cloth, 
+a plate on a cloth, 
+in old man standing in front of a fridge ,
+an insect,",67f302367b115d1edb94f0b0,expansive,1,,,1,,,1,,,,1,,,,1,,,,
+"A kid holding a ice cream cone with 3 scoops, old man, painting ",67695c1f4be32f2a262cdb7d,control,1,,,,,,,,,,,,1,,,,,,
+"old man
+woman
+kid
+dark nature",5c1c2c51e2d9150001b5737e,limited,1,,,,,,,,,,,,1,,,,,,
+"Old man at refrigerator
+Giant Truck
+Plate with two swans and an egg
+A breakfast plate
+",675dcdbbd05d95f3904a412c,control,1,,,,1,,1,,,,,,,,,,,,
+"Delivery truck
+A poor man without much food
+Children playing
+",5ff07b5ee7a1d23e719e421e,control,1,,,,1,,,,,,,,,1,,,,,
+okay i think i saw an old man standing. i saw a bird in the sky.,61512b155c1d2c5673a06ec1,control,1,,,,,,,,,,,,,,,,,,
+"Truck
+Old man in a kitchen
+Old book
+Boy with an ice cream
+Old couple 
+Woman with older woman
+Cigarette butts
+Little child on a lawn
+Girl on a chair with snake
+",67f15a6eb321af2595c63b9b,expansive,1,1,,1,1,,,,,,,1,1,1,,1,1,,
+"All of the pictures looked like they were taken in the 70s or 80s, except for one in the 90s (the War wounded from Sarajevo).  What I remember was:
+a truck
+kittens
+a blonde haired baby crawling in the grass
+a mother and child
+two old people looking at each other
+a boy with a cowboy hat and an ice cream cone
+an old man in his kitchen, looking forlorn
+an old woman in her kitchen, looking confused and her (presumably) daughter does something for her
+a truck
+some disgusting beetles or other such insects
+pizza with many different toppings
+a plate with a goose and ribbons
+a book on the carpet
+a very tall, snowy mountain",63fa812428f289c772131458,expansive,1,1,,1,1,,1,1,1,1,1,,1,1,1,,1,,
+"Giant semi truck, 
+elderly couple looking at each other
+cigarette butts
+umbrella
+female legs and feet in chair on grass with a snake
+kittens
+elderly man in kitchen with fridge open
+children",667af145fa8225b6be0e79b8,control,1,1,,,1,1,,1,,,,1,1,,,1,,,
+"Baby laying on ground in leaves.
+Older man and woman smiling at wash with heads pressed against each other.
+Cigarette butts
+Person sitting on bench with snake near their foot.
+Mountains with snow
+Old woman and person sitting at kitchen table. Younger person is holding the old woman hand as they reach for cup.
+Old man in kitchen holding pot of food.",66a951b14b7efb731d95dcbd,limited,1,,,,,,,,1,,,1,,1,1,1,1,,
+Book,65a74f0bddbf9042d8d537e7,limited,,,,1,,,,,,,,,,,,,,,1
+"Truck
+Infirmed people
+Baby in leaves
+",6841f4329a9deda70eae9ed4,expansive,,,,,1,,,,,,,,,1,,,,1,3
+,657a21547889c89041a48b34,control,,,,,,,,,,,,,,,,,,,0
+"Two women having tea time.
+kittens
+book
+plate
+pizza
+mom with baby
+older man and women couple
+mountain
+toddler with ice cream",67f054713cbdd6e7fdab28d4,expansive,,1,,1,,,1,1,1,1,,,1,,1,,1,,9
+"There was a picture showing two elderly adults trying to enjoy best moments together.
+Another picture was showing a young toddler gal looking abandoned somewhere ",67c78fbc58d20f4b7fe41479,control,,1,,,,,,,,,,,,1,,,,,2
+Snake under bench,67ca05b811f9ce2ffe685f2f,expansive,,,,,,,,,,,,,,,,1,,,1
+"mom and baby
+cats
+old people
+mountain
+injured people
+etc...",5dd38420a71de83809342ca3,control,,,,,,,,1,1,,,,,,1,,,1,4
+"Truck
+Old couple smiling and looking at each other
+cigarettes
+ladies feet with a snake
+",5a6ccdda3fb6420001c30da6,expansive,,1,,,1,,,,,,,1,,,,1,,,
+"Bible or book
+ people eating
+ children
+ scene of river/mountains
+,bugs
+ old people
+kittens
+",608437f0b139060610c9f0c1,limited,,1,,1,,,,1,1,,1,,,1,,,1,,
+"A plate sitting on a table.
+A young boy standing and looking ahead.
+A graveyard with tombstones and trees.
+A cockroach crawling on a surface.",67ddcc6cfc53ee0415e0db0e,limited,,,1,,,,1,,,,1,,1,,,,,,
+"book
+plate
+cemetery
+girl and snake
+duck
+umbrella
+",5cd062b7c24ebe0001f9fdb6,expansive,,,1,1,,1,1,,,,,,,,,1,,,
+"a kid with a cowboy hat with 2 scoops of ice cream
+a graveyard on a snow packed day
+an elderly couple smiling at each other
+a black person's legs hanging over a park bench on a sunny day
+a delivery truck from the 1980s
+a middle aged woman looking after her elderly mother
+a mix of pizza slices on a pizza tray
+",5c3ebd84c21f060001c44e9b,control,,1,1,,1,,,,,1,,,1,,,1,1,,
+"an umbrella
+plate
+baby
+old couple
+cockroaches
+a book on a carpet
+delivery truck
+kittens
+large pizza",650b03136ab3d4c832d98b71,expansive,,1,,1,1,1,1,1,,1,1,,,1,,,,,
+cats,601848135aa9ba08c66cff6a,limited,,,,,,,,1,,,,,,,,,,,
+"An old couple
+A plate
+Mountains
+A park
+",65c10ced2d3b8e53c08ce681,control,,1,,,,,1,,1,,,,,,,,,,
+"older woman with a younger woman holding her arm
+5 kittens
+an older man and woman looking at each other grinning
+a line of men some with missing limbs reminded me of war
+a plate with a flower pattern
+a person sitting saw the feet and a snake was by the feet
+a baby
+",66e0779ca33300c6c88370a7,limited,,1,,,,,1,1,,,,,,1,,1,1,1,
+"Two old people
+two cockroaches
+snake in the grass",672d127c0844b35fabc0dae8,control,,1,,,,,,,,,1,,,,,1,,,
+"a book, 
+a plate, 
+an umbrella,
+ 2 bugs, 
+a baby 
+a old couple",63106ea4e8fe9c6cd32bf358,expansive,,1,,1,,1,1,,,,1,,,1,,,,,
+"blue umbrella leaning against a wall
+two cockroaches
+old book
+old woman helping an older woman gets a mug off the table
+child with two scoops of ice cream
+bunch of cigarette butts littering the ground",66592dfcb3c1b6f73d81495c,expansive,,,,1,,1,,,,,1,1,1,,,,1,,
+"Pizzas
+Old man and woman
+Kitten
+Umbrella
+Delivery truck
+Plate
+Cigarettes 
+Bugs
+Feet/chair/grass
+People",629a4709039b1725f3a0727a,control,,1,,,1,1,1,1,,1,1,1,,,,1,,,
+I cannot remember the content of all the pictures.  I was concentrating on the colors of the borders.,66511d6367b8b8468d9d266a,expansive,,,,,,,,,,,,,,,,,,,0
+"apartment
+kittens
+cigarettes
+cockroches
+umbrella",5589b65afdf99b118adfa595,limited,,,,,,1,,1,,,1,1,,,,,,,
+"Child with ice cream
+two bugs on blue background
+man with a crutch sitting
+plate with payyern",63192b009a902051e89fabf1,limited,,,,,,,1,,,,1,,1,,,,,1,
+"Cat, bible, men, women, garden, cigars 
+  ",67cb4f07e42b150f96dc180b,limited,,,,1,,,,1,,,,1,,,,,,,
+"I saw one with bugs
+I saw another with an old woman and a young woman
+There was another one of a group of kittens",5efaffccf90911000c95a3cb,expansive,,,,,,,,1,,,1,,,,,,1,,
+"older man and woman looking at each other
+baby in a sweater on floor looking up at camera
+cigarette butts
+prisoners of war walking on a street
+a plate of food",6754c632477f9899a74314fd,limited,,1,,,,,1,,,,,1,,1,,,,1,
+"Mom and child
+Cigarettes 
+Mountain
+Beetles
+War victims/soldiers
+Old loving couple
+Womenâ€™s feet
+Pizza
+Old woman in kitchen with younger woman",665a22b5473f6a3b6a7d119e,expansive,,1,,,,,,,1,1,1,1,,,1,1,1,1,
+"A plate
+A mountain 
+An old couple 
+A swing set
+Many yellow borders 
+Many red borders ",66b2433239a9cbf52a883998,expansive,,1,,,,,1,,1,,,,,,,,,,
+"roaches
+truck
+older couple",5bb58e338f3bd70001e5df57,limited,,1,,,1,,,,,,1,,,,,,,,
+"Umbrella
+Older couple
+Chair",5dd2f94a238a913096c52317,limited,,1,,,,1,,,,,,,,,,,,,
+different images with different emotions. ,62bb42e2f21cfdb280cc975f,control,,,,,,,,,,,,,,,,,,,0
+"Cats, disabled men, couples, puppies, cockroach, cigars, 
+",67e2ed15da79347d97d600c6,limited,,1,,,,,,1,,,1,1,,,,,,1,
+"umbrella
+truck
+mountain",62b628e4351d179f1ff6cc59,limited,,,,,1,1,,,1,,,,,,,,,,
+"A delivery truck
+A plate with blue accents
+A smiling baby
+An elderly couple",667d08e12ac1bcbdd829a936,limited,,1,,,1,,1,,,,,,,1,,,,,
+I can't remember any of them now. I'm sorry. I have a bad memory ,5ee04a3f7dfcae39390e6553,expansive,,,,,,,,,,,,,,,,,,,0
+"plate with duck
+older couple
+cigarette putts
+umbrella
+kittens
+",6110888158573651261c3100,control,,1,,,,1,1,1,,,,1,,,,,,,
+"Babies 
+Bugs
+Cats
+Bible
+Umbrella ",60fd6618f9a377f54dcdf318,limited,,,,1,,1,,1,,,1,,,1,,,,,
+Enter,6782d20261dc524549bfc996,expansive,,,,,,,,,,,,,,,,,,,0
+"mountain
+truck
+umbrella",62029a55ef1cb18a1337c61a,limited,,,,,1,1,,,1,,,,,,,,,,
+"Book - seems like a bible
+Semi Truck - seems like an older model
+Umbrella - seems like it has patterns on it
+Old Couple - they seem like they care for each other
+",66eb4c524a53dee8ff61c871,expansive,,1,,1,1,1,,,,,,,,,,,,,
+"old people, Bible, cigarettes, mountain, baby, pizza",5ba78b71d60daf0001532d5b,control,,,,1,,,,,1,1,,1,,1,,,,,
+"People getting coffee, war, girl holding ice cream, cats, mountain",63b6c18f4f13282703357493,limited,,,,,,,,1,1,,,,1,,,,1,1,
+"blue umbrella
+Baby in kind of a glamour shot
+two black bugs, roaches maybe?
+Cemetery with crosses
+Old book that looked a little like a Bible
+Old fancy dinner plate
+Older man and woman
+Line of people, some on crutches
+two children (I think)
+",67d75ec8f1077573db42a4d5,control,,1,1,1,,1,1,,,,1,,,1,1,,,1,
+"A blue umbrella against a white wall
+A lady in a park with a snake under her feet in the grass
+An old couple looking lovingly at eachother
+A pizza with different toppings on each slice
+An old lady in a kitchen with another lady
+",67034b44e1837b326c65132f,limited,,1,,,,1,,,,1,,,,,,1,1,,
+"a snake under a chair,
+cigarette butts
+woman and a tea cup",660ea96849b96ac7f24c6878,expansive,,,,,,,,,,,,1,,,,1,1,,
+"Graveyard in snow
+A plate with an egg
+A baby ",5da6139c002c29001335b5a2,expansive,,,1,,,,1,,,,,,,1,,,,,
+Yellow umbrella,67563017947dfe388187d85d,control,,,,,,1,,,,,,,,,,,,,
+"Babies , food , elder people",65ce51bd28c936ced97816ce,control,,,,,,,,,,1,,,,1,,,,,
+"mother and child
+cigarette butts
+older couple
+wounded men walking
+",650d9650bb81532e8e16d578,expansive,,1,,,,,,,,,,1,,,1,,,1,
+"I saw a lineup of people with amputated arm and leg
+I saw a burial ground
+A woman carresing her child
+An umbrella
+A cat
+A laughing child",66632c69d2b270f0314a0b16,control,,,1,,,1,,1,,,,,,1,1,,,1,
+"pizza,
+insects,
+an older couple
+",5c747b0f181ad300113363ed,control,,1,,,,,,,,1,1,,,,,,,,
+"I saw a bunch of different images... 
+
+an old couple.
+a pair of white sneakers and legs on grass.
+two black bugs.
+cigarette butts.
+snowy mountain.
+a black old book.
+a grave yard.
+a pizza with different toppings.
+a mom and baby.
+a row of kittens.
+",66fcd0716d928803a90f7537,expansive,,1,1,1,,,,1,1,1,1,1,,,1,1,,,
+"plate with blue ribbon
+baby in the leaves
+delivery truck
+older couple smiling at each other
+blue book
+blue umbrella
+mountain
+line of men with amputees and men in wheelchairs
+cigarette butts
+",5bc913d99427200001dd47f5,limited,,1,,1,1,1,1,,1,,,1,,1,,,,1,
+"old couple 
+a book on the carpet
+can only see legs with whote shoes , and snake near her feet and green grass",65d9fe540f9cfbf106f1e5ca,limited,,1,,1,,,,,,,,,,,,1,,,
+"snake crawling in the grass by someone foot sitting on a bench, 
+truck, 
+I saw kittens, 
+I saw an couple with grey hair, 
+I saw a lady with a baby, 
+I saw a pizza with a lot of different slices with each slice with different ingredients.  ",661ae617af53e0326088784a,expansive,,1,,,1,,,1,,1,,,,,1,1,,,
+"An umbrella, a baby, two elderly people looking at each other, Legs with white shoes in the grass, an old book, a line of men with crutches ",648a2a5cc4f10970c54c8278,limited,,1,,1,,1,,,,,,,,1,,1,,1,
+"a beetle
+an old couple
+a puppy
+an umbrella
+a bird plate
+",66f305037af69346a9a55b42,control,,1,,,,1,1,,,,1,,,,,,,,
+"I saw 2 bugs
+an elderly couple smiling cheek to cheek
+a group of refugees in a line
+An ashtray of cigarettes",6554d04c73158a94d70192dd,limited,,1,,,,,,,,,1,1,,,,,,1,
+"Books, old couple, truck, infant,birds",63fd5efe8a2ed86c104fafc1,control,,1,,1,1,,,,,,,,,1,,,,,
+a lot of the photos were vintage shots of people from say the 70's and maybe 80's. perhaps older.,5884593bd920ed0001fdccb4,limited,,,,,,,,,,,,,,,,,,,0
+"Cigarettes
+Tombstones
+Old lady at table
+Old car
+",65f6d8993df9f5cc02ff0a38,control,,,1,,,,,,,,,1,,,,,1,,
+"people in a line
+cigarette butts
+older couple
+umbrella
+",666f4e508e12704f87264402,limited,,1,,,,1,,,,,,1,,,,,,1,
+"old people
+babies
+nature
+bugs
+cats
+mountain
+people with amputations
+people sitting at park",5cb128db0d14d3001838eef5,expansive,,,,,,,,1,1,,1,,,1,,1,,1,
+"cigarettes
+umbrella
+cat
+",614cd9dba2dad462039739cf,limited,,,,,,1,,1,,,,1,,,,,,,
+"Cats
+Baby in leaves ",5f514708067fba172909261a,expansive,,,,,,,,1,,,,,,1,,,,,
+"umbrella
+horse
+white plate
+cigarettes
+2 cockroaches
+line of people with crutches/amputees
+5 kittens
+elderly couple faces
+pizza with different toppings
+a book on the carpet
+",66c49506c24e39d11f5d89fc,control,,1,,1,,1,1,1,,1,1,1,,,,,,1,
+"a plate with ducks, a line of injured men, a mother and baby, the faces of an older couple, a woman feeding her mother, a large truck, a pile of used cigarettes",600e13b23c75bc67ab184745,limited,,1,,,1,,1,,,,,1,,,1,,1,1,
+"Old couple
+Blue umbrella
+",65528ca1f6c3023502f65715,limited,,1,,,,1,,,,,,,,,,,,,
+"Boy
+Man and woman
+Book
+Mountain
+Cigarette butts
+Mother and child
+",5ec00f62cf12be40ea6fe344,control,,1,,1,,,,,1,,,1,1,,1,,,,
+"A Graveyard
+Burnt Cigarettes 
+Shoe
+Mountain
+Two Old People
+Cars
+Town
+Girl Leg
+Nature
+Baby",633fadee5fc02d5c5e7c8eec,expansive,,1,1,,,,,,1,,,1,,1,,1,,,
+"Plate
+Kittens
+Book
+Crippled men in a line
+Pie
+Two ladies with coffee ",60393d92ed55293a04c77920,expansive,,,,1,,,1,1,,1,,,,,,,1,1,
+"bugs
+baby
+people",636da58a0d76bbb9167dbf3e,limited,,,,,,,,,,,1,,,1,,,,,
+"Pizza with different slices
+A cemetery 
+A guy with a mustache with his wife
+A baby
+Cigarette butts
+Two beetles
+",6777d289f3eaa43bfd9c878c,control,,1,1,,,,,,,1,1,1,,1,,,,,
+"A bunch of cats, a pair of old friends, an ice mountain, a cemetery in the winter, disabled people lining up, 2 cockroaches, ",5e4b793f03c92a08a6d28e3f,control,,,1,,,,,1,1,,1,,,,1,,,1,
+"Old man and woman smiling at each other
+Woman with dark haired baby
+Child with 2 scoops of ice cream on cone
+A womansiyting in chair just showing legs/chair/feet
+Plate with ducks and blue accents",5f81b5dddf03dd0754915ca6,expansive,,1,,,,,1,,,,,,1,,1,1,,,
+"A pizza with different flavors
+a mother and her baby
+a mountain with clouds around it
+a very old couple
+5 red cats
+a group of war prisoners or refugees
+",5d20d449ebebd10001cb2740,expansive,,1,,,,,,1,1,1,,,,,1,,,1,
+"Baby
+Couple
+Cigarettes
+Beetle
+Mountain 
+Men with disabilities 
+Dishes 
+",6648ab5f27ffbab1f28a4bee,expansive,,1,,,,,1,,1,,1,1,,1,,,,1,
+"Truck
+womans legs and snake
+plate with a goose and apple
+line of inhured me in the road
+",62951acd624dba0f4429d988,limited,,,,,1,,1,,,,,,,,,1,,1,
+"Bugs, People, Objects, Animals
+",66770c43f6af58991638b26a,control,,,,,,,,,,,1,,,,,,,,
+"Mother & child
+Mountain 
+Lady on a park bench with a snake at her feet
+Cemetery 
+5 kittens
+Pizza with veggie toppings on most of the slices and pepperoni on another 
+",677db62a0cf33f43d836dd75,limited,,,1,,,,,1,1,1,,,,,1,1,,,
+"book
+truck 
+group of people 
+pizza ",67a7d4e19fee63cbe222ae02,expansive,,,,1,,,,,,1,,,,,,,,1,
+a child with light hair and blue eyes wearing a white sweater sitting in autumn leaves in a park,66a398080da27efcc3e8ecef,expansive,,,,,,,,,,,,,,1,,,,,
+"people
+cigarettes
+animals",57529fbc947a3d0007b53d1d,limited,,,,,,,,,,,,1,,,,,,,
+"Elderly couple
+Toddler
+Woman's crossed legs
+Plate
+Pizza pie (variety)
+Delivery truck",65aea6a1b96c1e3bfcdb2181,control,,1,,,1,,1,,,1,,,1,,,1,,,
+"2 older people looking at each other
+baby in the leaves
+baby chicks
+2 older people touching hands in the kitchen
+graveyard
+men marching",643ead9be9be7fa2c20e1a53,expansive,,1,1,,,,,,,,,,,1,,,1,1,
+"Car 
+Truck
+Old people
+Books",628f83dc5398c04bac86f9e6,limited,,,,1,1,,,,,,,,,,,,,,
+"Elderly
+Icecream
+Swan plate
+mountains
+Ford truck
+mom with child
+kittens",665ccdf5480b729066a36508,limited,,,,,1,,1,1,1,,,,1,,1,,,,
+"box truck
+kittens
+older couple
+pizza
+snake
+Mountains
+cigarettes",65fb580ab7fbb2d518ee8eaa,control,,1,,,1,,,1,1,1,,1,,,,1,,,
+"a cat's picture 
+A black book on a table
+A couple gazing at one another",5f1091aa4bd173363a9700ec,expansive,,1,,1,,,,1,,,,,,,,,,,
+Enter,66199b3cd796398a2ba74e05,control,,,,,,,,,,,,,,,,,,,0

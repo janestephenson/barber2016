@@ -1,0 +1,92 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,DistributionChannel,UserLanguage,Q0_CONSENT,PANAS_pos_interested,PANAS_neg_distressed,PANAS_pos_excited,PANAS_neg_upset,PANAS_pos_strong,PANAS_neg_guilty,PANAS_neg_scared,PANAS_neg_hostile,PANAS_pos_enthusiast,PANAS_pos_proud,PANAS_neg_irritable,PANAS_pos_alert,PANAS_neg_ashamed,PANAS_pos_inspired,PANAS_neg_nervous,PANAS_pos_determined,PANAS_pos_attentive,PANAS_neg_jittery,PANAS_pos_active,PANAS_neg_afraid,lim_Q1,lim_Q2,lim_Q3,lim_Q4,exp_Q1,exp_Q2,exp_Q3,exp_Q4,cont_Q1,cont_Q2,cont_Q3,cont_Q4,mood_1,7090_color,7130_color,7150_color,7233_color,1463_color,2260_color,2540_color,2250_color,2650_color,5660_color,7350_color,1112_color,1275_color,2490_color,2590_color,9001_color,9415_color,9830_color,7090_color2,7130_color2,7150_color2,7233_color2,recall_images_list,Age,Gender,Gender_4_TEXT,Education,tech_problems,previous_exposure
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Distribution Channel,User Language,"Please read through this information carefully before you continue with the survey.
+
+
+
+DESCRIPTION: You are invited to participate in a research study that will ask you to answer questions about your emotions, write reflections on you life, view some images, and answer questions about the images you view.
+
+
+
+TIME INVOLVEMENT: Your participation in this online survey will take approximately 10 minutes.
+
+
+
+RISKS AND BENEFITS: The risks associated with this study are thought to be minimal. You may experience fatigue from the tasks and/or mild discomfort answering some questions, you can choose not to answer any question and you may stop participating at any time. We cannot and do not guarantee or promise that you will receive any benefits from this study. Your decision whether or not to participate in this study is completely voluntary.
+
+
+
+PAYMENTS: You will receive $X as payment for your participation in this study.
+
+
+
+PARTICIPANT’S RIGHTS: If you have read this form and have decided to participate in this project, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. The alternative is not to participate. You have the right to refuse to answer particular questions. The results of this research study may be presented at scientific or professional meetings or published in scientific journals. Your individual privacy will be maintained in all published and written data resulting from the study. In accordance with scientific norms, the data from this study may be used or shared with other researchers for future research (after removing personally identifying information) without additional consent from you.
+
+
+
+CONTACT INFORMATION: If you have any questions, concerns or complaints about this research, its procedures, risks and benefits, contact the Protocol Director, Jane Stephenson at janestep@stanford.edu.
+
+
+
+Independent Contact: If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at 650-723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu. You can also write to the Stanford IRB, Stanford University, 1705 El Camino Real, Palo Alto, CA 94306.
+
+
+
+Please save or print a copy of this page for your records. 
+
+
+
+If you agree to participate in this research, please select “I agree to participate” at the bottom of this page and continue with the survey.",Please rate the extent to which you currently feel interested,Please rate the extent to which you currently feel distressed,Please rate the extent to which you currently feel excited,Please rate the extent to which you currently feel upset,Please rate the extent to which you currently feel strong,Please rate the extent to which you currently feel guilty,Please rate the extent to which you currently feel scared,Please rate the extent to which you currently feel hostile,Please rate the extent to which you currently feel enthusiastic,Please rate the extent to which you currently feel proud,Please rate the extent to which you currently feel irritable,Please rate the extent to which you currently feel alert,Please rate the extent to which you currently feel ashamed,Please rate the extent to which you currently feel inspired,Please rate the extent to which you currently feel nervous,Please rate the extent to which you currently feel determined,Please rate the extent to which you currently feel attentive,Please rate the extent to which you currently feel jittery,Please rate the extent to which you currently feel active,Please rate the extent to which you currently feel afraid,How would this change your spending or saving?,How would this change what activities you spend time on?,Describe how you would like to spend your last day of life.,What goals would you have for the remaining months of your life if you knew you had only six more months to live?,How would this change your spending or saving?,How would this change what activities you spend time on?,Describe how you would like to spend your days after you reach age 100.,What goals would you have for the remaining years of your life if you knew you would live to be 120?,What was the most recent thing that you spent money on? This could be a bill that you paid or a purchase that you made.,What activities have you completed today?,Describe what you plan to do immediately after completing this survey.,What is one activity that you complete every day?,How would you rate your current mood? - Mood,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,What color is the border of this picture?,Please type brief descriptions of the content of as many of the pictures that you just saw as you can. Please start a new description of each picture on a new line.,How old are you (in years)?,How do you describe yourself? - Selected Choice,How do you describe yourself? - Prefer to self-describe - Text,What is the highest level of education you have completed?,"Did you encounter any technical problems during this survey? If yes, please describe.",Have you seen any of the images used in this survey in any past surveys or research studies?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID120""}","{""ImportId"":""QID10""}","{""ImportId"":""QID22""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID28""}","{""ImportId"":""QID30""}","{""ImportId"":""QID29""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID14_TEXT""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID8_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID18_TEXT""}","{""ImportId"":""QID19_TEXT""}","{""ImportId"":""QID20_TEXT""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID53_TEXT""}","{""ImportId"":""QID63_TEXT""}","{""ImportId"":""QID64_TEXT""}","{""ImportId"":""QID46_TEXT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID70_TEXT""}","{""ImportId"":""QID72_TEXT""}","{""ImportId"":""QID73_TEXT""}","{""ImportId"":""QID74_TEXT""}","{""ImportId"":""QID75_TEXT""}","{""ImportId"":""QID76_TEXT""}","{""ImportId"":""QID77_TEXT""}","{""ImportId"":""QID78_TEXT""}","{""ImportId"":""QID79_TEXT""}","{""ImportId"":""QID80_TEXT""}","{""ImportId"":""QID81_TEXT""}","{""ImportId"":""QID82_TEXT""}","{""ImportId"":""QID106_TEXT""}","{""ImportId"":""QID112_TEXT""}","{""ImportId"":""QID115_TEXT""}","{""ImportId"":""QID118_TEXT""}","{""ImportId"":""QID23_TEXT""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID4_4_TEXT""}","{""ImportId"":""QID2""}","{""ImportId"":""QID121_TEXT""}","{""ImportId"":""QID122""}"
+10/24/2025 13:59,10/24/2025 14:07,1,100,511,1,10/24/2025 14:07,R_1CKmm4utN56qfQY,,,,,preview,EN,1,3,1,2,1,3,1,1,1,3,3,1,3,1,3,1,4,4,1,3,1,,,,,I would be more conscious about how much I spend now so that I could have enough money to live for that long.,I wouldn't change anything about how I live now. ,"I would hopefully still have a partner who was still alive, children, grandchildren, and maybe even great grandchildren. I would like to spend my time with them. ",Much of the same goals. ,,,,,83,yellow,,,yellow,yellow,red,yellow,yellow,yellow,red,pizza,yellow,red,yellow,red,yellow,red,red,,yellow,yellow,,"truck
+umbrella
+baby and mom
+baby in leaves
+kid with ice cream
+bugs
+cigarette butts ",23,2,,5,,
+10/24/2025 16:52,10/24/2025 17:02,1,100,594,1,10/24/2025 17:02,R_1QM36zY2TKWC7Vj,,,,,preview,EN,1,4,2,3,2,1,3,2,1,4,1,2,5,2,3,3,3,2,3,3,2,,,,,,,,,Dinner.,Work and class.,Keep listening to Ke's presentation,Brush my teeth,44,,yellow,red,,red,red,red,yellow,yellow,red,red,red,red,red,yellow,red,yellow,yellow,yellow,,,red,"umbrella
+book
+truck
+plate
+baby in leaves
+baby with mom
+toddler with ice cream
+mountain
+pizza
+happy old couple
+cigarettes
+bugs
+graves
+amputated soldier
+old guy in kitchen
+old lady reaching for coffee
+snake and leg",23,2,,5,no,1
+10/24/2025 17:55,10/24/2025 18:06,0,100,639,1,10/24/2025 18:06,R_5Ua9MEj49K1GMVz,,,,,anonymous,EN,1,3,1,2,1,1,1,1,1,2,1,2,3,1,1,1,1,4,2,1,1,I would spend more money and use up my savings.,I would probably spend more time traveling and less time working. I would consider dropping out of grad school. I would also spend more time visiting family and friends.,I would like to spend the last day of my life relaxing outdoors somewhere with good scenery. I would also like to eat fancy food.,My goals would be to try things I haven't done before and visit places I've never been. I would also want to spend quality time with my loved ones and help them come to terms with the fact that I will be dying. ,,,,,,,,,50,red,yellow,,,yellow,yellow,red,red,red,yellow,yellow,yellow,yellow,yellow,yellow,yellow,red,red,,,red,yellow,"old man and woman that seem to be a couple
+bugs
+book
+grass
+woman in the kitchen
+kittens",25,2,,5,No,2
+10/24/2025 18:43,10/24/2025 19:01,0,100,1105,1,10/24/2025 19:01,R_1vYwZdOp6Ei96tZ,,,,,anonymous,EN,1,5,1,5,1,2,2,1,5,5,3,5,4,1,1,1,5,4,5,4,1,,,,,,,,,weed,submitted a 150k project,getting our heads shot,drink water,92,,,red,torquise,red,red,yellow,red,red,red,yellow,red,red,red,red,red,yellow,red,red,red,,,"truck
+pizza
+baby
+mother
+",23,1,,5,You did a great job Jane!,2
+10/24/2025 20:25,10/24/2025 20:33,0,100,527,1,10/24/2025 20:33,R_3jaTYbTbE4JeMyR,,,,,anonymous,EN,1,3,1,3,2,3,2,1,1,3,3,2,1,1,3,1,3,1,1,1,2,,,,,"I would save more, assuming my money compounds, and I can enjoy retirement.",I would focus a bit more on things that bring me immediate happiness.,I would like to move to a small cabin in the Himalayas and continue my research :),I would like to learn medicine.,,,,,60,,red,,red,red,red,yellow,yellow,yellow,yellow,red,yellow,red,red,red,red,red,yellow,yellow,,red,,"mother with baby
+old couples
+giant truck
+plate
+victims of war",30,1,,6,,2
+10/25/2025 7:37,10/25/2025 7:48,0,100,676,1,10/25/2025 7:48,R_1f0D6wWaEGKnn7k,,,,,anonymous,EN,1,4,1,3,1,4,1,1,1,4,4,1,3,1,4,1,3,4,1,3,1,I'd spend more money (than I already do) traveling the world and seeing my children.  ,"I'd spend more time with my own parents thanking them.  And with my spouse, children and friends.  ",A walk in the woods or on a beach surrounded by my immediate family only.  A nice brunch and gentle conversation in nature.  ,"To ensure people knew how I felt about them, releasing any anger or grudges I had, traveling to the countries I always wanted to see.  ",,,,,,,,,90,Gold,,Yellow,,Yellow,Red,Yellow,Yellow,Red,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,,Yellow,,Yellow,"Baby
+Cigarettes
+Book
+Truck
+Elderly person with woman at table
+Line of infirmed people
+Toddler with ice cream
+Elderly couple laughing
+
+",57,2,,5,"A little tricky on mobile.  The slider didn't go more to the right for a higher ranking and would revert back to the left.  Again, on a cell phone.  ",2
+10/25/2025 10:03,10/25/2025 10:17,0,100,869,1,10/25/2025 10:17,R_5THPbKKIyX8DKez,,,,,anonymous,EN,1,3,1,3,1,2,1,1,1,3,2,1,3,1,2,1,3,3,1,2,1,,,,,,,,,I spent sixty dollars to get my hair cut and colored. I do this once a month and it gives me a lift.,I baked two carrot cakes for my husband. I also wrote  a thinking of you card to a woman I have known all my life so she knows that I am thinking of her. ,"I am going to frost my two carrot cakes and then read. 
+","I brush my teeth.
+",93,,,white or pale blue,Brown wood,yellow,red,red,yellow,yellow and black,red,red,red,yellow,red,yellow,red,yellow,red,red,red,,,A woman with a snake curled near her feet.,78,2,,5,I was not able to go back and finish the descriptions of the pictures that I saw. How do I do that?,2

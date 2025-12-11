@@ -1,0 +1,182 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,DistributionChannel,UserLanguage,Q0_CONSENT,ProlificID,PANAS_pos_interested,PANAS_neg_distressed,PANAS_pos_excited,PANAS_neg_upset,PANAS_pos_strong,PANAS_neg_guilty,PANAS_neg_scared,PANAS_neg_hostile,PANAS_pos_enthusiast,PANAS_pos_proud,PANAS_neg_irritable,PANAS_pos_alert,PANAS_neg_ashamed,PANAS_pos_inspired,PANAS_neg_nervous,PANAS_pos_determined,PANAS_pos_attentive,PANAS_neg_jittery,PANAS_pos_active,PANAS_neg_afraid,lim_Q1,lim_Q2,lim_Q3,lim_Q4,exp_Q1,exp_Q2,exp_Q3,exp_Q4,cont_Q1,cont_Q2,cont_Q3,cont_Q4,mood_1,7090_color,7130_color,7150_color,7233_color,1463_color,2260_color,2540_color,2250_color,2650_color,5660_color,7350_color,1112_color,1275_color,2490_color,2590_color,9001_color,9415_color,9830_color,7090_color2,7130_color2,7150_color2,7233_color2,recall_images_list,Age,Gender,Gender_4_TEXT,Education,tech_problems,previous_exposure,PROLIFIC_PID,condition
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Distribution Channel,User Language,"Please read through this information carefully before you continue with the survey.
+
+
+
+DESCRIPTION: You are invited to participate in a research study that will ask you to answer questions about your emotions, write reflections on you life, view some images, and answer questions about the images you view.
+
+
+
+TIME INVOLVEMENT: Your participation in this online survey will take approximately 12 minutes.
+
+
+
+RISKS AND BENEFITS: The risks associated with this study are thought to be minimal. You may experience fatigue from the tasks and/or mild discomfort answering some questions, you can choose not to answer any question and you may stop participating at any time. We cannot and do not guarantee or promise that you will receive any benefits from this study. Your decision whether or not to participate in this study is completely voluntary.
+
+
+
+PAYMENTS: You will receive $1.60 as payment for your participation in this study.
+
+
+
+PARTICIPANT’S RIGHTS: If you have read this form and have decided to participate in this project, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. The alternative is not to participate. You have the right to refuse to answer particular questions. The results of this research study may be presented at scientific or professional meetings or published in scientific journals. Your individual privacy will be maintained in all published and written data resulting from the study. In accordance with scientific norms, the data from this study may be used or shared with other researchers for future research (after removing personally identifying information) without additional consent from you.
+
+
+
+CONTACT INFORMATION: If you have any questions, concerns or complaints about this research, its procedures, risks and benefits, contact the Protocol Director, Jane Stephenson at janestep@stanford.edu.
+
+
+
+Independent Contact: If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at 650-723-2480 or toll free at 1-866-680-2906, or email at irbnonmed@stanford.edu. You can also write to the Stanford IRB, Stanford University, 1705 El Camino Real, Palo Alto, CA 94306.
+
+
+
+Please save or print a copy of this page for your records. 
+
+
+
+If you agree to participate in this research, please select “I agree to participate” at the bottom of this page and continue with the survey.","What is your Prolific ID?
+
+Please note that this response should auto-fill with the correct ID",Please rate the extent to which you currently feel interested,Please rate the extent to which you currently feel distressed,Please rate the extent to which you currently feel excited,Please rate the extent to which you currently feel upset,Please rate the extent to which you currently feel strong,Please rate the extent to which you currently feel guilty,Please rate the extent to which you currently feel scared,Please rate the extent to which you currently feel hostile,Please rate the extent to which you currently feel enthusiastic,Please rate the extent to which you currently feel proud,Please rate the extent to which you currently feel irritable,Please rate the extent to which you currently feel alert,Please rate the extent to which you currently feel ashamed,Please rate the extent to which you currently feel inspired,Please rate the extent to which you currently feel nervous,Please rate the extent to which you currently feel determined,Please rate the extent to which you currently feel attentive,Please rate the extent to which you currently feel jittery,Please rate the extent to which you currently feel active,Please rate the extent to which you currently feel afraid,How would this change your spending or saving?,How would this change what activities you spend time on?,Describe how you would like to spend your last day of life.,What goals would you have for the remaining months of your life if you knew you had only six more months to live?,How would this change your spending or saving?,How would this change what activities you spend time on?,Describe how you would like to spend your days after you reach age 100.,What goals would you have for the remaining years of your life if you knew you would live to be 120?,What was the most recent thing that you spent money on? This could be a bill that you paid or a purchase that you made.,What activities have you completed today?,Describe what you plan to do immediately after completing this survey.,What is one activity that you complete every day?,How would you rate your current mood? - Mood,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,What color was the border of the image you just saw?,"Please type brief descriptions of the content of as many of the pictures that you just saw as you can. Please start a new description of each picture on a new line within this text box by pressing ""Enter"".",How old are you (in years)?,How do you describe yourself? - Selected Choice,How do you describe yourself? - Prefer to self-describe - Text,What is the highest level of education you have completed?,"Did you encounter any technical problems during this survey? If yes, please describe.",Have you seen any of the images used in this survey in any past surveys or research studies?,PROLIFIC_PID,condition
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID120""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID22""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID28""}","{""ImportId"":""QID30""}","{""ImportId"":""QID29""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID14_TEXT""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID8_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID18_TEXT""}","{""ImportId"":""QID19_TEXT""}","{""ImportId"":""QID20_TEXT""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID53_TEXT""}","{""ImportId"":""QID63_TEXT""}","{""ImportId"":""QID64_TEXT""}","{""ImportId"":""QID46_TEXT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID70_TEXT""}","{""ImportId"":""QID72_TEXT""}","{""ImportId"":""QID73_TEXT""}","{""ImportId"":""QID74_TEXT""}","{""ImportId"":""QID75_TEXT""}","{""ImportId"":""QID76_TEXT""}","{""ImportId"":""QID77_TEXT""}","{""ImportId"":""QID78_TEXT""}","{""ImportId"":""QID79_TEXT""}","{""ImportId"":""QID80_TEXT""}","{""ImportId"":""QID81_TEXT""}","{""ImportId"":""QID82_TEXT""}","{""ImportId"":""QID106_TEXT""}","{""ImportId"":""QID112_TEXT""}","{""ImportId"":""QID115_TEXT""}","{""ImportId"":""QID118_TEXT""}","{""ImportId"":""QID23_TEXT""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID4_4_TEXT""}","{""ImportId"":""QID2""}","{""ImportId"":""QID121_TEXT""}","{""ImportId"":""QID122""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""condition""}"
+10/24/2025 13:59,10/24/2025 14:07,1,100,511,1,10/24/2025 14:07,R_1CKmm4utN56qfQY,,,,,preview,EN,1,,3,1,2,1,3,1,1,1,3,3,1,3,1,3,1,4,4,1,3,1,,,,,I would be more conscious about how much I spend now so that I could have enough money to live for that long.,I wouldn't change anything about how I live now. ,"I would hopefully still have a partner who was still alive, children, grandchildren, and maybe even great grandchildren. I would like to spend my time with them. ",Much of the same goals. ,,,,,83,yellow,,,yellow,yellow,red,yellow,yellow,yellow,red,pizza,yellow,red,yellow,red,yellow,red,red,,yellow,yellow,,"truck
+umbrella
+baby and mom
+baby in leaves
+kid with ice cream
+bugs
+cigarette butts ",23,2,,5,,,,
+10/24/2025 16:52,10/24/2025 17:02,1,100,594,1,10/24/2025 17:02,R_1QM36zY2TKWC7Vj,,,,,preview,EN,1,,4,2,3,2,1,3,2,1,4,1,2,5,2,3,3,3,2,3,3,2,,,,,,,,,Dinner.,Work and class.,Keep listening to Ke's presentation,Brush my teeth,44,,yellow,red,,red,red,red,yellow,yellow,red,red,red,red,red,yellow,red,yellow,yellow,yellow,,,red,"umbrella
+book
+truck
+plate
+baby in leaves
+baby with mom
+toddler with ice cream
+mountain
+pizza
+happy old couple
+cigarettes
+bugs
+graves
+amputated soldier
+old guy in kitchen
+old lady reaching for coffee
+snake and leg",23,2,,5,no,1,,
+10/24/2025 17:55,10/24/2025 18:06,0,100,639,1,10/24/2025 18:06,R_5Ua9MEj49K1GMVz,,,,,anonymous,EN,1,,3,1,2,1,1,1,1,1,2,1,2,3,1,1,1,1,4,2,1,1,I would spend more money and use up my savings.,I would probably spend more time traveling and less time working. I would consider dropping out of grad school. I would also spend more time visiting family and friends.,I would like to spend the last day of my life relaxing outdoors somewhere with good scenery. I would also like to eat fancy food.,My goals would be to try things I haven't done before and visit places I've never been. I would also want to spend quality time with my loved ones and help them come to terms with the fact that I will be dying. ,,,,,,,,,50,red,yellow,,,yellow,yellow,red,red,red,yellow,yellow,yellow,yellow,yellow,yellow,yellow,red,red,,,red,yellow,"old man and woman that seem to be a couple
+bugs
+book
+grass
+woman in the kitchen
+kittens",25,2,,5,No,0,,
+10/24/2025 18:43,10/24/2025 19:01,0,100,1105,1,10/24/2025 19:01,R_1vYwZdOp6Ei96tZ,,,,,anonymous,EN,1,,5,1,5,1,2,2,1,5,5,3,5,4,1,1,1,5,4,5,4,1,,,,,,,,,weed,submitted a 150k project,getting our heads shot,drink water,92,,,red,torquise,red,red,yellow,red,red,red,yellow,red,red,red,red,red,yellow,red,red,red,,,"truck
+pizza
+baby
+mother
+",23,1,,5,You did a great job Jane!,0,,
+10/24/2025 20:25,10/24/2025 20:33,0,100,527,1,10/24/2025 20:33,R_3jaTYbTbE4JeMyR,,,,,anonymous,EN,1,,3,1,3,2,3,2,1,1,3,3,2,1,1,3,1,3,1,1,1,2,,,,,"I would save more, assuming my money compounds, and I can enjoy retirement.",I would focus a bit more on things that bring me immediate happiness.,I would like to move to a small cabin in the Himalayas and continue my research :),I would like to learn medicine.,,,,,60,,red,,red,red,red,yellow,yellow,yellow,yellow,red,yellow,red,red,red,red,red,yellow,yellow,,red,,"mother with baby
+old couples
+giant truck
+plate
+victims of war",30,1,,6,,0,,
+10/25/2025 7:37,10/25/2025 7:48,0,100,676,1,10/25/2025 7:48,R_1f0D6wWaEGKnn7k,,,,,anonymous,EN,1,,4,1,3,1,4,1,1,1,4,4,1,3,1,4,1,3,4,1,3,1,I'd spend more money (than I already do) traveling the world and seeing my children.  ,"I'd spend more time with my own parents thanking them.  And with my spouse, children and friends.  ",A walk in the woods or on a beach surrounded by my immediate family only.  A nice brunch and gentle conversation in nature.  ,"To ensure people knew how I felt about them, releasing any anger or grudges I had, traveling to the countries I always wanted to see.  ",,,,,,,,,90,Gold,,Yellow,,Yellow,Red,Yellow,Yellow,Red,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,,Yellow,,Yellow,"Baby
+Cigarettes
+Book
+Truck
+Elderly person with woman at table
+Line of infirmed people
+Toddler with ice cream
+Elderly couple laughing
+
+",57,2,,5,"A little tricky on mobile.  The slider didn't go more to the right for a higher ranking and would revert back to the left.  Again, on a cell phone.  ",0,,
+10/25/2025 10:03,10/25/2025 10:17,0,100,869,1,10/25/2025 10:17,R_5THPbKKIyX8DKez,,,,,anonymous,EN,1,,3,1,3,1,2,1,1,1,3,2,1,3,1,2,1,3,3,1,2,1,,,,,,,,,I spent sixty dollars to get my hair cut and colored. I do this once a month and it gives me a lift.,I baked two carrot cakes for my husband. I also wrote  a thinking of you card to a woman I have known all my life so she knows that I am thinking of her. ,"I am going to frost my two carrot cakes and then read. 
+","I brush my teeth.
+",93,,,white or pale blue,Brown wood,yellow,red,red,yellow,yellow and black,red,red,red,yellow,red,yellow,red,yellow,red,red,red,,,A woman with a snake curled near her feet.,78,2,,5,I was not able to go back and finish the descriptions of the pictures that I saw. How do I do that?,0,,
+10/26/2025 10:23,10/26/2025 10:35,0,100,712,1,10/26/2025 10:35,R_1r2KM9WUOhAr0mw,,,,,anonymous,EN,1,,5,1,2,1,4,1,1,1,3,4,1,4,1,3,1,4,4,1,3,1,Not at all as there are others dependent upon my savings.,More leisure and less work. More time with friends and family.,"If knowing the exact day and time, and I am in good health, then with dinner with family.",Seeing friends and family. Putting affairs in order.,,,,,,,,,100,Red,Red,,,Red ,Yellow ,Red,Yellow ,Red,Red,Red ,Red,Red ,Yellow ,Red,Yellow ,Red,Yellow ,,,Yellow ,Red ,"Smiling kittens
+Disabled people in a line
+Old man with soup
+Old couple
+Pizza
+Baby",58,1,,6,No,0,,
+10/27/2025 15:29,10/27/2025 16:12,0,100,2582,1,10/27/2025 16:12,R_1wztaKXwmHTHB64,,,,,anonymous,EN,1,,4,1,3,1,4,1,1,2,2,3,1,4,2,3,1,4,4,1,4,1,,,,,I would curb my spending so that my savings would last until I was 120. I would move to a senior development that had a lot of activities to keep both my body and mind in good shape.,"Since I am assuming that I am in good health until age 120, I would travel abroad every year and visit the countries that I have not yet seen. I would spend months in certain countries since I would have the time. I would also do activities like play tennis, yoga if my body were healthy. I would not read as many books because I would move to a nicer climate to enjoy the outdoors and not be inside the house all winter.","I would remain very active, still traveling and hopefully spending more time with siblings and my children, grandchildren and possibly great grandchildren. I would visit those seniors in nursing homes that are not in good health. I would continue to enjoy plays and concerts. I may limit my travel to within the United States and Canada.","My goals would be to be extremely happy and grateful for living so long and in being in good health. Travel, spending time with loved ones and being in a state of continual peace knowing that I would be living that long!",,,,,78,,yellow,,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow,red,yellow,red,red,red,yellow,red,,red,,"Tennis shoes
+umbrella
+men on crutches
+baby
+ older couple, man with a mustache
+mountain
+",77,2,,5,"No, but had a small dog slide off my lap 3 times during the test on ""What color is the frame"" lol",0,,
+10/28/2025 14:43,10/28/2025 14:56,0,100,780,1,10/28/2025 14:56,R_7EOgGSPCYQYS7AJ,,,,,anonymous,EN,1,,2,1,1,1,3,1,1,1,3,3,1,3,1,2,1,1,2,1,3,1,,,,,,,,,Lunch,"House cleaning, shopping, radio, music on phone",I am going to have a Bear Claw and cup of coffe,watching news on TV,80,blackish blue,,,green,red,yellow,yellow,yellow,yellow,red,yellow,yellow,yellow,red,yellow,yellow,red,yellow,,red,yellow,,"I was just looking at the borders, baby, war, dump, ",82,1,,6,,0,,
+10/28/2025 20:46,10/28/2025 20:55,0,100,537,1,10/28/2025 20:55,R_6pyRV6pHerLhGVW,,,,,anonymous,EN,1,,5,1,4,1,4,1,1,2,5,4,2,4,1,4,1,4,5,2,4,1,I would stop saving and spend (or attempt to spend) all of my savings in those 6 months. ,"I would stop going into work. I would spend more time with family and in nature. I would likely engage in more high risk behavior, particularly athletic or adventurous activities.",At home with family.,I would avoid setting goals as the pressure to complete something before death is likely to be miserable. My only goal would be to enjoy the time I had actively.,,,,,,,,,62,,Red,Yellow,,Red,Yellow,Red,Yellow,Red,Yellow,Red,Red,Yellow,Yellow,Red,Yellow,Yellow,Yellow,Yellow,,,Yellow,"
+Snake near a person sitting on a park bench
+Cigarette buts
+
+Cats sitting in a row
+
+Some old people
+
+Mountain under a clear sky",26,1,,6,The age field had a suggested fill of my credit card information,0,,
+10/29/2025 18:53,10/29/2025 19:01,0,100,521,1,10/29/2025 19:01,R_1gS376P9MTVne3D,,,,,anonymous,EN,1,,4,1,3,1,4,1,1,1,4,4,1,4,1,4,1,4,4,1,4,1,,,,,Save more ,More exercise and intellectual stimulation ,In service to others ,Spiritual enrichment,,,,,95,Red,,Red,,Yellow,Yellow,Red,Red,Yellow,Red,Red,Yellow,Red,Red,Yellow,No picture ,Red,Red ,,Yellow,,Red ,"Cats
+Plates 
+Trucks
+Man with mustache
+",57,2,,6,Yes. A couple of server problems,0,,
+11/21/2025 14:22,11/21/2025 14:30,0,100,463,1,11/21/2025 14:30,R_3f48KsycFAgLrGX,,,,,anonymous,EN,1,66465d688e90512d006edc84,4,1,2,1,3,1,1,1,3,2,1,3,1,3,2,3,4,1,3,1,,,,,,,,,An iced latte,"Taking care of my cats, finishing a TV series ",Check text messages,Feeding my cats,51,,Red,,Red,Red,Yellow,Yellow,Yellow,Yellow,Yellow,Red,Red,Red,Yellow,Red,Red,Red,Yellow,Yellow,,Red,,"Pizza
+Mom with baby
+Orange kittens
+Cigarette butts
+Roaches 
+Old man in kitchen
+Truck
+Older man and woman
+Book",31,2,,3,,0,66465d688e90512d006edc84,control
+11/21/2025 14:23,11/21/2025 14:30,0,100,471,1,11/21/2025 14:30,R_7r3eGaMbB4vSo2R,,,,,anonymous,EN,1,65a74f0bddbf9042d8d537e7,2,1,1,1,3,1,1,1,2,2,1,4,1,2,1,2,4,1,3,1,I'd spend it all,I'd make no changes,Resting ,I'd sleep a lot i think,,,,,,,,,63,Black,,Red,,Yellow,Yellow,Res,Red,Red,Red,Yellow,Red,Red,Yellow ,Yellow,Yellow,Yellow,Yellow,,Yellow,,Red,"The first one was a book.
+I don't remember the others",51,1,,3,Nope ,0,65a74f0bddbf9042d8d537e7,limited
+11/21/2025 14:48,11/21/2025 14:59,0,100,601,1,11/21/2025 14:59,R_3KPIUBTyzJyHc65,,,,,anonymous,EN,1,60fd588771ae861f9244f93d,4,1,1,1,3,3,1,1,3,1,1,4,1,1,1,3,4,2,3,1,I would spend more. I am moderate in my spending because I just retired. I would take my savings and pay off my house and travel.,It would change a lot. I would spend time with family more and travel.,I would spend the last day of my life surrounded by family and friends.,"I would write my will, visit old friends.",,,,,,,,,54,dark blue,,yellow,,yellow,yellow,orange,orange,orange,orange,yellow,yellow,yellow,orange,yellow,yellow,orange,yelllow,,yellow,,orange,"Snow covered mountain
+book
+kittens
+man with pot in his hand
+cigarette butts
+mother and child
+blonde baby
+plate with a dove in the middle
+pizza
+two women, one older at a talbe with cookies - younger has hand on older's",66,2,,5,,0,60fd588771ae861f9244f93d,limited
+11/21/2025 14:56,11/21/2025 15:08,0,100,712,1,11/21/2025 15:08,R_7HRzWyWwKq8tJNA,,,,,anonymous,EN,1,6841f4329a9deda70eae9ed4,4,2,4,1,5,1,5,1,4,4,2,4,1,4,2,5,4,3,4,5,,,,,I would still spend less and save more,I will reduce the amount of activities I do overtime,Relaxing and meditating,I would travel the world and see different places,,,,,90,Yellow,Brown,,,Yellow,Red,Yellow,Red,Yellow,Red,Red,Red,Green,Yellow,Yellow,Yellow,Red,Yellow,,,Yellow,Yellow,"A picture of a trailer.
+A picture of old men in a queue
+A picture of a baby crawling
+",65,2,,6,,0,6841f4329a9deda70eae9ed4,expansive
+11/21/2025 14:41,11/21/2025 15:11,0,100,1793,1,11/21/2025 15:11,R_6hfFbaZq7nmBuIJ,,,,,anonymous,EN,1,5e6bdd2a3ea572199bb7f6b6,4,1,1,2,3,1,1,1,2,3,1,4,1,2,1,3,4,1,2,1,,,,,"It wouldn't.  I am 64, spend little and have a mortgage with a monthly payment $300/month.  Most of the things I enjoy doing do not cost a penny.",I don't think it really would.  ,"Hopefully, the same things I do now. A little bit of consulting, a lot of reading, spending time with friends, either in person, online or via phone, doing jewelry design/fab, walking, volunteering, writing, learning, solving the world's problems in my head, social media, visiting museums/galleries, attending an occasional symphony/play, occasionally streaming something, Hopefully still living independently, or all bets are off.","Staying independent and having decent eyesight, so I could continue my vociferous reading.  Maybe getting a book published. Staying close to my extended family/friends.",,,,,87,,no idea - was looking at the truck,,yellow,red,red,red,red,red,red,red,yellow,red,red,red,red,yellow,yellow,red,,red,,"Bluish/blakck covered book
+Blue umbrella
+Old man holding bowl in kitchen
+Young woman with baby
+Old woman sitting at table holding coffee cup (I THINK there was another woman with her, but not sure)
+Cockroaches
+Men in a line with missing limbs/injuries
+Child with a cone (blueberry top scoop)
+Black legs, white shoes on a bench
+",64,2,,5,"No.  Got to use my old memory palace tricks, but I know I still forgot quite a few, sigh.",0,5e6bdd2a3ea572199bb7f6b6,expansive
+11/21/2025 15:09,11/21/2025 15:16,0,100,448,1,11/21/2025 15:16,R_68MxeXdPLWaAx7H,,,,,anonymous,EN,1,657a21547889c89041a48b34,3,3,3,3,4,3,3,1,4,3,2,3,2,2,2,3,4,3,2,2,,,,,,,,,I spent money on my bike,Getting paperwork done for work and exercising a little bit. ,Do more surveys and some studying ,Stretching ,47,,,yellow,yellow,red,red,yellow,yellow,red,yellow,yellow,red,yellow,red,red,red,yellow,yellow,yellow,red,,,"I saw a lot of old school pictures
+I saw a lot of black and white pictures
+Most of the pictures look sad or I barely saw any smiling 
+Some things I saw were objects. ",27,1,,5,,0,657a21547889c89041a48b34,control
+11/21/2025 16:33,11/21/2025 16:41,0,100,508,1,11/21/2025 16:41,R_6KfFSqg4gSUinBf,,,,,anonymous,EN,1,66817654ce8b233327b047ab,1,5,1,5,1,4,4,3,1,1,5,1,3,1,4,3,1,2,1,4,,,,,,,,,food at the dollar tree,none,watch YouTube videos or sleep ,cleaning my room ,0,blue,yellow ,,,yellow,red,yellow,red,red,yellow,yellow ,yellow,red,yellow,red,yellow,yellow,yellow,,,yellow,red,"a mother and baby
+an antique plate
+elderly women in a kitchen 
+cigarette butts
+elderly man cooking 
+",36,2,,2,,0,66817654ce8b233327b047ab,control
+11/21/2025 16:39,11/21/2025 16:47,0,100,501,1,11/21/2025 16:47,R_1wLC9KnZYcTj9R7,,,,,anonymous,EN,1,691dd7e2bb36cc07679cd499,3,1,3,1,3,1,1,1,4,4,1,3,1,4,1,4,3,1,3,1,I  would spend more on experiences with my wife and children.,I would spend more time with my wife and children.,Probably on the mountain playing in a stream with my kids and then being with my wife as the sun sets.,Try to set my wife and kids up so they could continue without me.,,,,,,,,,88,,,Red,Red,Red,Red,Yellow,Yellow,Yellow,Red,Red,Red,Red,Red,Yellow,Red,Red,Yellow,Yellow,Yellow,,,"Cats
+moving truck
+mother and daughter
+old man  in a kitchen with the refrigerator open
+older couple kissing
+concentration camp",38,1,,5,,0,691dd7e2bb36cc07679cd499,limited
+11/21/2025 17:59,11/21/2025 18:19,0,100,1155,1,11/21/2025 18:19,R_1lzBOBvNkUKoW4e,,,,,anonymous,EN,1,67f054713cbdd6e7fdab28d4,5,2,3,1,4,1,1,1,4,3,1,5,1,4,1,5,5,1,5,1,,,,,"I would save more than I do now. I would cut down a lot of my spending, and save about 40 percent of my monthly earnings. This would help me to be financially independent even in my old age.","I would not spend time on things that are not beneficial. I wouldn't cut down my working hours, to go for concerts or trips. I would rather work harder in my active years and start touring when I retire.","After I reach 100, I would live in a quiet neighborhood. I wouldn't want to be disturbed by commuters during the day. I would want to live the rest of my life in peace and quiet. Also, I would allow my children and grandchildren to visit me on a regular for some family time.","My goal would be to be able to save enough, so I don't become financially dependent on my family in my long retirement years. I would also want to make a more legal and proper plan for my life, mostly if I become inactive from year 100. I would also want to start a world tour the moment I retire.",,,,,79,Black,,,Teal,Red,Red,Red,Yellow,Red,Red,Yellow,Yellow,Yellow,Yellow,Yellow,Red,Yellow,Yellow,,Red,Red,,"Two women having tea time.
+Image of some cats smiling.
+An old book.
+A nicely designed plate.
+A pizza with four different slices.
+A mother holding her baby.
+An old man and woman looking into each other's eyes.
+A mountail with sunset effect.
+A oy holding an ice cream.",47,2,,6,,0,67f054713cbdd6e7fdab28d4,expansive
